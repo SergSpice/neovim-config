@@ -235,6 +235,14 @@ return {
             },
           },
         },
+        rust_analyzer = {},
+        ts_ls = {},
+        cssls = {},
+        emmet_language_server = {},
+        angularls = {},
+        html = {},
+        jsonls = {},
+        tailwindcss = {},
       }
 
       -- Ensure the servers and tools above are installed
